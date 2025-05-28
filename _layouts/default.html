@@ -1,5 +1,6 @@
+
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
@@ -8,9 +9,17 @@
 <body>
   <header>
     <nav>
-      <a href="/">Accueil</a> |
-      <a href="/publications.html">Publications</a> |
-      <a href="/projects.html">Projets</a>
+      {% if page.url contains '/fr/' %}
+        <a href="/fr/">Accueil</a> |
+        <a href="/fr/publications.html">Publications</a> |
+        <a href="/fr/projects.html">Projets</a> |
+        <a href="/">EN 🇬🇧</a>
+      {% else %}
+        <a href="/">Home</a> |
+        <a href="/publications.html">Publications</a> |
+        <a href="/projects.html">Projects</a> |
+        <a href="/fr/">FR 🇫🇷</a>
+      {% endif %}
     </nav>
   </header>
   <main>
