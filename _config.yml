@@ -36,18 +36,6 @@ defaults:
     values:
       sidebar:
         sticky: true
-        nav: "main"
-        custom:
-          - image: "/ressources/photo_cv_last.jpg"
-            image_alt: "Nathan Quiblier"
-            text: |
-              **Nathan Quiblier**  
-              Postdoctoral researcher in applied mathematics & computational biology  
-              📍 Paris, France  
-              ✉️ [nathan.quiblier@gmail.com](mailto:nathan.quiblier@gmail.com)  
-              🔗 [GitHub](https://github.com/NathanQblr)  
-              🔗 [LinkedIn](https://www.linkedin.com/in/nathan-quiblier/)  
-              🔗 [Google Scholar](https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr)
       navigation: main
 
   - scope:
@@ -55,18 +43,6 @@ defaults:
     values:
       sidebar:
         sticky: true
-        nav: "main"
-        custom:
-          - image: "/ressources/photo_cv_last.jpg"
-            image_alt: "Nathan Quiblier"
-            text: |
-              **Nathan Quiblier**  
-              Chercheur postdoctoral en mathématiques appliquées à la biologie  
-              📍 Paris  
-              ✉️ [nathan.quiblier@gmail.com](mailto:nathan.quiblier@gmail.com)  
-              🔗 [GitHub](https://github.com/NathanQblr)  
-              🔗 [LinkedIn](https://www.linkedin.com/in/nathan-quiblier/)  
-              🔗 [Google Scholar](https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr)
       navigation: main
       navigation_data: navigation_fr
       author:
