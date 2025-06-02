@@ -7,6 +7,8 @@ description: >-
 url: "https://nathanqblr.github.io"
 baseurl: ""
 
+logo: "/assets/images/portrait.jpg"
+
 author:
   name: "Nathan Quiblier"
   avatar: "/assets/images/portrait.jpg"
@@ -58,7 +60,7 @@ defaults:
             url: "/"
       header:
         nav:
-          - title: "Accueil"
+          - title: "Nathan Quiblier"
             url: "/fr/"
           - title: "Publications"
             url: "/fr/publications/"
@@ -68,8 +70,15 @@ defaults:
             url: "/fr/teaching/"
           - title: "Présentations"
             url: "/fr/talks/"
+          - title: "Recherche"
+            url: "/fr/research/"
+          - title: "CV"
+            url: "/fr/cv/"
           - title: "English 🇬🇧"
             url: "/"
+      sidebar:
+        nav: "main"
+        sticky: true
 
 plugins:
   - jekyll-include-cache
@@ -83,7 +92,7 @@ include:
 # navigation
 header:
   nav:
-    - title: "Home"
+    - title: "Nathan Quiblier"
       url: "/"
     - title: "Publications"
       url: "/publications/"
@@ -93,5 +102,13 @@ header:
       url: "/teaching/"
     - title: "Talks"
       url: "/talks/"
+    - title: "Research"
+      url: "/research/"
+    - title: "CV"
+      url: "/cv/"
     - title: "Français 🇫🇷"
       url: "/fr/"
+
+sidebar:
+  nav: "main"
+  sticky: true
