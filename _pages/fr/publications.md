@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+author_profile: true
 permalink: /fr/publications.html
 ---
 

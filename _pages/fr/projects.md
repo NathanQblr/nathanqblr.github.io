@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projets
+author_profile: true
 permalink: /fr/projects.html
 ---
 

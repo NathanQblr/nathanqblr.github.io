@@ -37,6 +37,13 @@ collections:
 
 defaults:
   - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main"
+        sticky: true
+
+  - scope:
       path: "fr"
     values:
       author:
@@ -76,9 +83,6 @@ defaults:
             url: "/fr/cv/"
           - title: "English 🇬🇧"
             url: "/"
-      sidebar:
-        nav: "main"
-        sticky: true
 
 plugins:
   - jekyll-include-cache
