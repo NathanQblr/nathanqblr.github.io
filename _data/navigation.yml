@@ -9,5 +9,9 @@ main:
     url: /teaching/
   - title: "Talks"
     url: /talks/
+  - title: "Research"
+    url: "/research/"
+  - title: "CV"
+    url: "/cv/"
   - title: "Français 🇫🇷"
     url: /fr/

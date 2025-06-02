@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Projets
+layout: single
+title: "Projets"
+permalink: /fr/projects/
 author_profile: true
-permalink: /fr/projects.html
 ---
 
 # Projets de recherche

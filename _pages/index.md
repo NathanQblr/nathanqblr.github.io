@@ -4,8 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# Nathan Quiblier
-
 Welcome to my academic website. I am a postdoctoral researcher in mathematical modeling applied to biology. My research focuses on the spatiotemporal dynamics of biological systems through simulations, learning algorithms, and stochastic methods.
 
 

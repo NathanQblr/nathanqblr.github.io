@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Publications
-permalink: /publications.html
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-
 # Selected Publications
 
 - **Biophysical Journal**, 2025  

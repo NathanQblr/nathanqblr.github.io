@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Projects
-permalink: /projects.html
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
 # Research Projects

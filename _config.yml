@@ -7,11 +7,10 @@ description: >-
 url: "https://nathanqblr.github.io"
 baseurl: ""
 
-logo: "/assets/images/portrait.jpg"
 
 author:
   name: "Nathan Quiblier"
-  avatar: "/assets/images/portrait.jpg"
+  avatar: "/ressources/photo_cv_last.jpg"
   bio: "Postdoc in applied mathematics & computational biology"
   location: "Paris, France"
   email: "nathan.quiblier@gmail.com"
@@ -25,9 +24,7 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
-    - label: "Français 🇫🇷"
-      icon: "fas fa-language"
-      url: "/fr/"
+
 
 # French author config for /fr/ pages
 collections:
@@ -48,7 +45,7 @@ defaults:
     values:
       author:
         name: "Nathan Quiblier"
-        avatar: "/assets/images/portrait.jpg"
+        avatar: "/ressources/photo_cv_last.jpg"
         bio: "Chercheur postdoctoral en modélisation mathématique appliquée à la biologie"
         location: "Paris, France"
         email: "nathan.quiblier@gmail.com"
@@ -62,9 +59,6 @@ defaults:
           - label: "Google Scholar"
             icon: "ai ai-google-scholar"
             url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
-          - label: "English 🇬🇧"
-            icon: "fas fa-language"
-            url: "/"
       header:
         nav:
           - title: "Nathan Quiblier"

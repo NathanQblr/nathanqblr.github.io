@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Publications
+layout: single
+title: "Publications"
+permalink: /fr/publications/
 author_profile: true
-permalink: /fr/publications.html
 ---
 
 # Publications sélectionnées
