@@ -4,7 +4,7 @@ title: Nathan Quiblier
 permalink: /fr/
 ---
 
-<img src="ressources/photo_cv_last.jpg" alt="Portrait de Nathan Quiblier" style="float:right; width:150px; margin-left:20px; border-radius:8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+<img src="../ressources/photo_cv_last.jpg" alt="Portrait de Nathan Quiblier" style="float:right; width:150px; margin-left:20px; border-radius:8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
 
 # Nathan Quiblier
 
