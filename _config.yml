@@ -10,7 +10,7 @@ baseurl: ""
 author:
   name: "Nathan Quiblier"
   avatar: "/ressources/photo_cv_last.jpg"
-  bio: "Postdoc in applied mathematics & computational biology"
+  bio: "Postdoctoral researcher in applied mathematics & computational biology"
   location: "Paris, France"
   email: "nathan.quiblier@gmail.com"
   links:
@@ -23,6 +23,7 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+
 # French author config for /fr/ pages
 collections:
   fr:
@@ -40,6 +41,8 @@ defaults:
   - scope:
       path: "fr"
     values:
+      sidebar:
+        sticky: true
       navigation: main
       navigation_data: navigation_fr
       author:

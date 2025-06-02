@@ -22,16 +22,18 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Supprime le lien autour de la photo */
 .author__avatar a {
   pointer-events: none;
   cursor: default;
 }
 
-/* Rend la photo carrée et plus grande */
 .author__avatar img {
-  border-radius: 0% !important;
-  width: 150px !important;
-  height: auto;
-  box-shadow: none;
+  border-radius: 0% !important;  /* carré */
+  filter: none !important;       /* enlève l’effet grisé */
+  opacity: 1 !important;
 }
+
+.author__avatar img {
+  width: 250px;
+}
+
