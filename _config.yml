@@ -1,6 +1,97 @@
-title: Nathan Quiblier
-email: nathan@example.com
-baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+locale: "en-US"
+title: "Nathan Quiblier"
+email: "nathan.quiblier@gmail.com"
+description: >-
+  Postdoctoral researcher in computational biology and applied mathematics.
 url: "https://nathanqblr.github.io"
-markdown: kramdown
-theme: null
+baseurl: ""
+
+author:
+  name: "Nathan Quiblier"
+  avatar: "/assets/images/portrait.jpg"
+  bio: "Postdoc in applied mathematics & computational biology"
+  location: "Paris, France"
+  email: "nathan.quiblier@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/NathanQblr"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/nathan-quiblier/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+    - label: "Français 🇫🇷"
+      icon: "fas fa-language"
+      url: "/fr/"
+
+# French author config for /fr/ pages
+collections:
+  fr:
+    output: true
+    permalink: /fr/:path/
+
+defaults:
+  - scope:
+      path: "fr"
+    values:
+      author:
+        name: "Nathan Quiblier"
+        avatar: "/assets/images/portrait.jpg"
+        bio: "Chercheur postdoctoral en modélisation mathématique appliquée à la biologie"
+        location: "Paris, France"
+        email: "nathan.quiblier@gmail.com"
+        links:
+          - label: "GitHub"
+            icon: "fab fa-github"
+            url: "https://github.com/NathanQblr"
+          - label: "LinkedIn"
+            icon: "fab fa-linkedin"
+            url: "https://www.linkedin.com/in/nathan-quiblier/"
+          - label: "Google Scholar"
+            icon: "ai ai-google-scholar"
+            url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+          - label: "English 🇬🇧"
+            icon: "fas fa-language"
+            url: "/"
+      header:
+        nav:
+          - title: "Accueil"
+            url: "/fr/"
+          - title: "Publications"
+            url: "/fr/publications/"
+          - title: "Projets"
+            url: "/fr/projects/"
+          - title: "Enseignement"
+            url: "/fr/teaching/"
+          - title: "Présentations"
+            url: "/fr/talks/"
+          - title: "English 🇬🇧"
+            url: "/"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+include:
+  - _pages
+
+# navigation
+header:
+  nav:
+    - title: "Home"
+      url: "/"
+    - title: "Publications"
+      url: "/publications/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Teaching"
+      url: "/teaching/"
+    - title: "Talks"
+      url: "/talks/"
+    - title: "Français 🇫🇷"
+      url: "/fr/"
