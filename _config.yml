@@ -23,10 +23,6 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
-    - label: "Français 🇫🇷"
-      icon: "fas fa-language"
-      url: "/fr/"
-
 # French author config for /fr/ pages
 collections:
   fr:
@@ -62,9 +58,6 @@ defaults:
           - label: "Google Scholar"
             icon: "ai ai-google-scholar"
             url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
-          - label: "English 🇬🇧"
-            icon: "fas fa-language"
-            url: "/"
 
 plugins:
   - jekyll-include-cache

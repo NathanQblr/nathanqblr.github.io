@@ -1,6 +1,4 @@
 main:
-  - title: "Nathan Quiblier"
-    url: "/"
   - title: "Publications"
     url: "/publications/"
   - title: "Projects"
