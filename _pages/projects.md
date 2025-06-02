@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-# Research Projects
 
 - **Intracellular Signaling in Heterogeneous Media (PhD, Inria Aistrosight)**  
   Developed physics-informed machine learning tools to analyze spatial heterogeneity in transcription factor diffusion, using fluorescence correlation spectroscopy (FCS) and single-particle tracking (SPT).

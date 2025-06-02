@@ -1,5 +1,3 @@
-# _config.yml
-
 remote_theme: "mmistakes/minimal-mistakes"
 locale: "en-US"
 title: "Nathan Quiblier"
@@ -8,8 +6,6 @@ description: >-
   Postdoctoral researcher in computational biology and applied mathematics.
 url: "https://nathanqblr.github.io"
 baseurl: ""
-
-logo: "/ressources/photo_cv_last.jpg"
 
 author:
   name: "Nathan Quiblier"
@@ -78,23 +74,3 @@ plugins:
 
 include:
   - _pages
-
-# navigation
-header:
-  nav:
-    - title: "Nathan Quiblier"
-      url: "/"
-    - title: "Publications"
-      url: "/publications/"
-    - title: "Projects"
-      url: "/projects/"
-    - title: "Teaching"
-      url: "/teaching/"
-    - title: "Talks"
-      url: "/talks/"
-    - title: "Research"
-      url: "/research/"
-    - title: "CV"
-      url: "/cv/"
-    - title: "Français 🇫🇷"
-      url: "/fr/"

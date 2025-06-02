@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Projets"
+title: "Projets de recherche"
 permalink: /fr/projects/
 author_profile: true
 ---
-
-# Projets de recherche
 
 - **Signalisation intracellulaire en milieu hétérogène (thèse, Inria Aistrosight)**  
   Développement d'outils d'apprentissage automatique informés par la physique pour analyser la diffusion de facteurs de transcription via FCS et SPT.

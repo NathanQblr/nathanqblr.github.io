@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Selected Publications
 
 - **Biophysical Journal**, 2025  
   *[Enhancing Fluorescence Correlation Spectroscopy with Machine Learning](https://www.cell.com/biophysj/abstract/S0006-3495(25)00057-8)*  

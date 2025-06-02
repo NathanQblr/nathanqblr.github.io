@@ -5,8 +5,6 @@ permalink: /fr/publications/
 author_profile: true
 ---
 
-# Publications sélectionnées
-
 - **Biophysical Journal**, 2025  
   *[Amélioration de la spectroscopie de corrélation de fluorescence par apprentissage automatique](https://www.cell.com/biophysj/abstract/S0006-3495(25)00057-8)*  
   Nathan Quiblier, Jan-Michael Rye, Pierre Leclerc, Henri Truong, Abdelkrim Hannou, Laurent Heliot, Hugues Berry
