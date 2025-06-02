@@ -3,7 +3,10 @@ layout: default
 title: Nathan Quiblier
 ---
 
+<img src="ressources/photo_cv_last.jpg" alt="Portrait of Nathan Quiblier" style="float:right; width:150px; margin-left:20px; border-radius:8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+
 # Nathan Quiblier
+
 
 I am a Ph.D. in Applied Mathematics to Biology and currently a postdoctoral researcher in computational modeling of biological systems. My research focuses on integrating mathematical modeling, numerical simulations, and machine learning to study spatiotemporal dynamics of complex biological systems, from molecular to cellular scales.
 

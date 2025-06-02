@@ -4,6 +4,8 @@ title: Nathan Quiblier
 permalink: /fr/
 ---
 
+<img src="ressources/photo_cv_last.jpg" alt="Portrait de Nathan Quiblier" style="float:right; width:150px; margin-left:20px; border-radius:8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+
 # Nathan Quiblier
 
 Je suis docteur en mathématiques appliquées à la biologie et actuellement postdoctorant en modélisation computationnelle des systèmes biologiques. Mes travaux portent sur l’intégration de la modélisation mathématique, des simulations numériques et de l’apprentissage automatique pour étudier la dynamique spatio-temporelle de systèmes complexes, de l’échelle moléculaire à l’échelle cellulaire.
