@@ -1,9 +1,8 @@
 ---
 layout: home
-author_profile: true
-permalink: /fr/
 sidebar:
   nav: "main"
+permalink: /
 ---
 Bienvenue sur mon site académique !
 
@@ -11,10 +10,10 @@ Je suis chercheur postdoctoral en mathématiques appliquées et en biologie comp
 
 À partir de l’été 2025, je rejoindrai le *[Ricci Lab](https://www.ricci-lab.com)* à l’Institut Imagine à Paris pour un post-doctorat, au cours duquel j’etudierai les **réseaux de régulation génétique**.
 
-##Intérêts de recherche
+## Intérêts de recherche
 
 J’utilise des modèles mathématiques et numériques pour étudier la dynamique intracellulaire. Mes recherches portent notamment sur les réseaux biochimiques à l’échelle moléculaire et sur l’influence des contraintes spatiales (encombrement moléculaire, compartimentalisation, etc.) sur la signalisation cellulaire. Je m’intéresse en particulier aux phénomènes de transport anormal ou biaisé, qui remettent en question les hypothèses classiques de diffusion. Je m’intéresse également à la régulation de ces systèmes via des approches fondées sur le contrôle ou la formulation de problèmes inverses. Ces questions sont abordées à l’aide de diverses stratégies de modélisation, allant des modèles mécanistes aux méthodes hybrides ou orientées données.
 
-##À propos
+## À propos
 
 En parallèle de mes recherches, je contribue activement à la vie scientifique en organisant des événements pour les jeunes chercheuses et chercheurs avec le réseau *[Imabio Young Scientist](https://sites.google.com/view/iysn/home)*.

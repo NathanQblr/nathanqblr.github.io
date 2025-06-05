@@ -35,32 +35,37 @@ defaults:
       path: ""
     values:
       sidebar:
+        nav: "main"
         sticky: true
-      navigation: main
-
+        custom:
+          - image: "/ressources/photo_cv_last.jpg"
+            image_alt: "Nathan Quiblier"
+            text: |
+              **Nathan Quiblier**  
+              Postdoctoral researcher in applied mathematics & computational biology  
+              📍 Paris, France  
+              ✉️ [nathan.quiblier@gmail.com](mailto:nathan.quiblier@gmail.com)  
+              🔗 [GitHub](https://github.com/NathanQblr)  
+              🔗 [LinkedIn](https://www.linkedin.com/in/nathan-quiblier/)  
+              🔗 [Google Scholar](https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr)
   - scope:
       path: "fr"
     values:
       sidebar:
+        nav: "main"
         sticky: true
-      navigation: main
-      navigation_data: navigation_fr
-      author:
-        name: "Nathan Quiblier"
-        avatar: "/ressources/photo_cv_last.jpg"
-        bio: "Chercheur postdoctoral en modélisation mathématique appliquée à la biologie"
-        location: "Paris, France"
-        email: "nathan.quiblier@gmail.com"
-        links:
-          - label: "GitHub"
-            icon: "fab fa-github"
-            url: "https://github.com/NathanQblr"
-          - label: "LinkedIn"
-            icon: "fab fa-linkedin"
-            url: "https://www.linkedin.com/in/nathan-quiblier/"
-          - label: "Google Scholar"
-            icon: "ai ai-google-scholar"
-            url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+        custom:
+          - image: "/ressources/photo_cv_last.jpg"
+            image_alt: "Nathan Quiblier"
+            text: |
+              **Nathan Quiblier**  
+              Chercheur postdoctoral en mathématiques appliquées à la biologie  
+              📍 Paris  
+              ✉️ [nathan.quiblier@gmail.com](mailto:nathan.quiblier@gmail.com)  
+              🔗 [GitHub](https://github.com/NathanQblr)  
+              🔗 [LinkedIn](https://www.linkedin.com/in/nathan-quiblier/)  
+              🔗 [Google Scholar](https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr)
+
 
 plugins:
   - jekyll-include-cache

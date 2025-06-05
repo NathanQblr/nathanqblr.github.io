@@ -31,7 +31,7 @@ nav a:hover {
 .author__avatar img {
   border-radius: 0% !important;  /* carré */
   filter: none !important;       /* enlève l’effet grisé */
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .author__avatar img {
