@@ -1,4 +1,6 @@
 main:
+  - title: "Accueil"
+    url: "/fr/"
   - title: "Publications"
     url: "/fr/publications/"
   - title: "Enseignement"

@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   max-width: 800px;
   margin: auto;
   padding: 2rem;
@@ -23,19 +23,20 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Désactive le lien cliquable de l’avatar Jekyll par défaut */
 .author__avatar a {
-  pointer-events: none;
-  cursor: default;
+  pointer-events: none !important;
+  cursor: default !important;
 }
 
-/* Style de l’avatar (si author_profile: true est activé quelque part) */
 .author__avatar img {
-  border-radius: 0% !important;
-  filter: none !important;
-  opacity: 1 !important;
-  width: 180px !important;
+  width: 200px !important;
+  height: auto !important;
+  border-radius: 0% !important;   /* carré */
+  filter: none !important;        /* plus d'effet grisé */
+  opacity: 1 !important;          /* visible */
 }
+
+
 
 /* Image dans le sidebar personnalisé */
 .sidebar__custom img {
@@ -51,3 +52,4 @@ nav a:hover {
 .sidebar__navigation {
   display: none !important;
 }
+
