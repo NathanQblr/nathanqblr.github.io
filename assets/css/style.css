@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
+  font-size: 16px;  /* ou 1rem, 18px, etc. */
   max-width: 800px;
   margin: auto;
   padding: 2rem;
@@ -30,10 +31,10 @@ nav a:hover {
 .author__avatar img {
   border-radius: 0% !important;  /* carré */
   filter: none !important;       /* enlève l’effet grisé */
-  opacity: 1 !important;
+  opacity: 0 !important;
 }
 
 .author__avatar img {
-  width: 250px;
+  width: 500px;
 }
 
