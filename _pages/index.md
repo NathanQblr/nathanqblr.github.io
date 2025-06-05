@@ -1,7 +1,6 @@
 ---
 layout: home
-sidebar:
-  nav: "main"
+author_profile: true
 permalink: /
 ---
 Welcome to my academic website!
