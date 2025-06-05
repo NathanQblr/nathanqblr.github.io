@@ -16,3 +16,7 @@ author_profile: true
 - **Biology Open**, 2022  
   *[Latest trends in bioimaging and building a proactive network of early-career young scientists in Europe](https://journals.biologists.com/bio/article/11/12/bio059630/286144/)*  
   Valenta H, Quiblier N, Laghi V, Cabriel C, Riti J
+
+
+## Thesis
+*[Intracellular Signalling in Spatially Heterogenous Media : Modelling and Statistical Learning Methods](https://theses.hal.science/tel-05057721)* under the supervision of *[Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage/)* (2024).

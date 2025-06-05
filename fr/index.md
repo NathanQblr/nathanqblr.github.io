@@ -5,19 +5,12 @@ permalink: /fr/
 sidebar:
   nav: "main"
 ---
+Bienvenue sur mon site académique !
 
-Bienvenue sur mon site académique. Je suis chercheur postdoctoral en modélisation mathématique appliquée à la biologie. Mes travaux portent sur la dynamique spatio-temporelle des systèmes biologiques, à l’aide de simulations, d’algorithmes d’apprentissage et de méthodes stochastiques.
+Je suis chercheur postdoctoral en mathématiques appliquées et en biologie computationnelle. En décembre 2024, j’ai soutenu ma thèse à l’Université Lyon 1, sous la direction de Hugues Berry, au sein de l’équipe AIstroSight à Inria Lyon. Mes travaux portaient sur la modélisation de la signalisation intracellulaire dans des milieux spatialement hétérogènes.
 
+À partir de l’été 2025, je rejoindrai le Ricci Lab à l’Institut Imagine à Paris pour un post-doctorat, au cours duquel j’etudierai les **réseaux de régulation génétique**.
 
+De manière plus générale, j’utilise des modèles mathématiques et numériques pour étudier la dynamique intracellulaire. Mes recherches portent notamment sur les réseaux biochimiques à l’échelle moléculaire et sur l’influence des contraintes spatiales (encombrement moléculaire, compartimentalisation, etc.) sur la signalisation cellulaire. Je m’intéresse en particulier aux phénomènes de transport anormal ou biaisé, qui remettent en question les hypothèses classiques de diffusion. Je m’intéresse également à la régulation de ces systèmes via des approches fondées sur le contrôle ou la formulation de problèmes inverses. Ces questions sont abordées à l’aide de diverses stratégies de modélisation, allant des modèles mécanistes aux méthodes hybrides ou orientées données.
 
-## Domaines de recherche
-
-- **Modélisation mathématique** : EDP, EDO, processus stochastiques  
-- **Modélisation computationnelle** : réseaux de réactions, modèles spatiaux, trajectoires moléculaires  
-- **Simulation numérique** : volumes finis, éléments finis, réseaux de neurones informés par la physique (PINNs)  
-- **IA pour les données biomédicales** : deep learning, méthodes bayésiennes  
-
-
-## À propos
-
-Je m’intéresse particulièrement aux interfaces entre mathématiques, IA et biologie. En parallèle de mes recherches, je participe à la vie scientifique et à l’organisation d’événements pour jeunes chercheurs.
+En parallèle de mes recherches, je contribue activement à la vie scientifique en organisant des événements pour les jeunes chercheuses et chercheurs avec le *[réseau Imabio Young Scientist](https://sites.google.com/view/iysn/home)*.
