@@ -38,3 +38,9 @@ nav a:hover {
   width: 500px;
 }
 
+.sidebar__custom img {
+  border-radius: 0% !important;
+  filter: none !important;
+  width: 180px !important;
+  margin-bottom: 1rem;
+}
