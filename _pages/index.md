@@ -1,10 +1,9 @@
 ---
 layout: home
+title: "Welcome to my academic website!"
 author_profile: true
 permalink: /
 ---
-Welcome to my academic website!
-
 I am a postdoctoral researcher in applied mathematics and computational biology. In December 2024, I defended my Ph.D. at Université Lyon 1, under the supervision of *[Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage/)*, within the AIstroSight team at Inria Lyon. My work focused on modelling intracellular signaling in spatially heterogeneous media.
 
 Starting in summer 2025, I will join the *[Ricci Lab](https://www.ricci-lab.com)* at Institut Imagine in Paris for a postdoctoral position, where I will explore gene regulation.

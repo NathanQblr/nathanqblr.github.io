@@ -23,6 +23,14 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-4642-8726"
+    - label: "HAL"
+      icon: "fas fa-file-alt"
+      url: "https://hal.science/search/index/?q=Nathan+Quiblier"
+
+
 
 # French author config for /fr/ pages
 collections:
@@ -43,8 +51,8 @@ defaults:
     values:
       sidebar:
         sticky: true
-      navigation: main
       navigation_data: navigation_fr
+      navigation: main
       author:
         name: "Nathan Quiblier"
         avatar: "/ressources/photo_cv_last.jpg"
@@ -61,6 +69,12 @@ defaults:
           - label: "Google Scholar"
             icon: "ai ai-google-scholar"
             url: "https://scholar.google.com/citations?user=TyQ2D7wAAAAJ&hl=fr"
+          - label: "ORCID"
+            icon: "ai ai-orcid"
+            url: "https://orcid.org/0000-0003-4642-8726"
+          - label: "HAL"
+            icon: "fas fa-file-alt"
+            url: "https://hal.science/search/index/?q=Nathan+Quiblier"
 
 plugins:
   - jekyll-include-cache
@@ -71,3 +85,10 @@ plugins:
 include:
   - _pages
   - google239538d2f5d326e5.html
+  - favicon.ico
+
+
+# Enable Academicons
+theme_settings:
+  social_icons:
+    - enable: true

@@ -1,10 +1,9 @@
 ---
 layout: home
+title: "Bienvenue sur mon site académique!"
+permalink: /fr/
 author_profile: true
-permalink: /
 ---
-Bienvenue sur mon site académique !
-
 Je suis chercheur postdoctoral en mathématiques appliquées et en biologie computationnelle. En décembre 2024, j’ai soutenu ma thèse à l’Université Lyon 1, sous la direction de *[Hugues Berry](https://hberry.gitlabpages.inria.fr/mywebpage/)*, au sein de l’équipe AIstroSight à Inria Lyon. Mes travaux portaient sur la modélisation de la signalisation intracellulaire dans des milieux spatialement hétérogènes.
 
 À partir de l’été 2025, je rejoindrai le *[Ricci Lab](https://www.ricci-lab.com)* à l’Institut Imagine à Paris pour un post-doctorat, au cours duquel j’etudierai la régulation génique.
